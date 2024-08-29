@@ -7,6 +7,9 @@
 
 
 <div align="center">
+<h2 align="center" style="margin: 5px 10px;">Badges:</h2> 
+![AWS Certified Cloud Practitioner Badge](https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png)
+
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=Zivgl66&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Zivgl66)
